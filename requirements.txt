@@ -1,0 +1,10 @@
+
+opencv-python
+mediapipe
+scikit-learn
+numpy
+pandas
+joblib
+.\.venv\Scripts\python.exe main.py
+.\.venv\Scripts\python.exe train_model.py
+.\.venv\Scripts\python.exe collect_data.py
